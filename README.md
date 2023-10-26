@@ -1,0 +1,1 @@
+This is a Random Quote Generator. It makes up the first part of my coding portfolio Enjoy!
